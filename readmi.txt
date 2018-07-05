@@ -2,4 +2,5 @@ read me txt from local suko/user
 egg hurt
 i need update after add new content
 make conflict
+edit can save?
 
